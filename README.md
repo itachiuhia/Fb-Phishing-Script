@@ -17,10 +17,7 @@
  + This python files without build file.
  + Can be run with this below command
 
- '''python
- py -m geektrust <absolute_path_to_input_file>
- '''
+
 ```python
-s = "Python syntax highlighting"
-print s
+py -m geektrust <absolute_path_to_input_file>
 ```
