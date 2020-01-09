@@ -20,3 +20,7 @@
  '''python
  py -m geektrust <absolute_path_to_input_file>
  '''
+```python
+s = "Python syntax highlighting"
+print s
+```
